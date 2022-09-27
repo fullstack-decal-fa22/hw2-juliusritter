@@ -1,1 +1,1 @@
-https://github.com/fullstack-decal-fa22/hw2-juliusritter/edit/main/
+https://github.com/juliusritter
